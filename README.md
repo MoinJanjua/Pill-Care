@@ -1,6 +1,6 @@
 # PillCare
 
-[![PillCare on the App Store](https://link-to-your-app-icon.com)](https://apps.apple.com/)
+[![PillCare on the App Store](https://github.com/MoinJanjua/Pill-Care/blob/main/Ihone14-2.png)(https://github.com/MoinJanjua/Pill-Care/blob/main/Ihone14-3.png)](https://apps.apple.com/)
 
 Never miss a dose with **PillCare**! Easily schedule your medications, set timely reminders, and keep track of your health. Your trusted companion for a healthier tomorrow.
 
